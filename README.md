@@ -2,8 +2,7 @@
 create your own personalized chatbot to chat with you, summarize text for you, or translate it!
 
 ## Screenshot
-![image](https://github.com/magnumical/PersonalizedChatBot/blob/master/src.png)
-
+![image](https://github.com/magnumical/PersonalizedChatBot/blob/main/src.png)
 
 
 ## Go beyong text-to-text AI interactions
