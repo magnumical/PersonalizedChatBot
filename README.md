@@ -15,3 +15,11 @@ Our MVP has been published using Unity webGL and it is [available here to play ]
 🎮 [Play the Game](https://rezaamini.itch.io/)  
 
 
+
+
+----------------
+Bot version inspired form:
+https://github.com/techleadhd/chatgpt-retrieval
+
+
+
